@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod 755 hello
+#!ibin/bash
+chmod ugo+x hello
